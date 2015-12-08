@@ -1,0 +1,5 @@
+description: 'Lansează un client DB dacă acesta este disponibil'
+arguments:
+    database: 'Cheia bazei de date din fișierul settings.php'
+messages:
+    executing: 'Executare: %s'

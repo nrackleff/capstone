@@ -1,0 +1,5 @@
+description: 'Запуск клиента БД, если он доступен'
+arguments:
+    database: 'Ключ БД из settings.php'
+messages:
+    executing: 'Выполнение: %s'

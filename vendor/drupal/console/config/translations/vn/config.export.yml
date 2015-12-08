@@ -1,0 +1,5 @@
+description: 'Xuất cấu hình ứng dụng hiện tại'
+arguments:
+    directory: 'Định nghĩa xuất thư mục để lưu cấu hình đầu ra'
+messages:
+    directory: 'Cấu hình xuất file của bạn đã được lưu trữ trong %s'
